@@ -95,7 +95,7 @@ Throughout these projects, I’ve worked with:
 
 ## Contact
 
-If you’re interested in my work or would like to collaborate, feel free to reach out via [your email/LinkedIn profile link].
+If you’re interested in my work or would like to collaborate, feel free to reach out via [dantehenningsen@gmail.com].
 
 ---
 
