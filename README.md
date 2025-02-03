@@ -73,6 +73,8 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 **Outcome:** Enhanced threat detection capabilities and improved response strategies through log analysis and pattern recognition.
 
+**Link to Artifact:** [SiemLab](https://github.com/VernonXTA/SIEM-Lab)
+
 ---
 
 ## Tools and Technologies
