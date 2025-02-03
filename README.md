@@ -10,7 +10,7 @@ Welcome to my Cybersecurity Home Projects portfolio! This repository showcases t
   - [1. Honeypot Deployment and Threat Intelligence](#1-honeypot-deployment-and-threat-intelligence)
   - [2. Nmap XMAS Scan Detection and Mitigation](#2-nmap-xmas-scan-detection-and-mitigation)
   - [3. SCADA System Security Design](#3-scada-system-security-design)
-  - [4. Packet Tracer Network Configurations](#4-packet-tracer-network-configurations)
+  - [4. SIEM Log Analysis and Threat Hunting](#4-siem-log-analysis-and-threat-hunting)
 - [Tools and Technologies](#tools-and-technologies)
 - [Future Goals](#future-goals)
 
@@ -62,22 +62,23 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 ---
 
-### 4. Packet Tracer Network Configurations
+### 4. SIEM Log Analysis and Threat Hunting
 
-**Objective:** To design and implement efficient network configurations using Cisco Packet Tracer.  
+**Objective:** To analyze security logs and identify potential threats using a Security Information and Event Management (SIEM) system.  
 **Steps Taken:**
-- Created VLSM addressing schemes for optimized IP allocation.
-- Configured IPv6 on network devices to support modern communication standards.
-- Tested connectivity using `ping` and `traceroute` to ensure a resilient setup.
+- Collected and ingested security logs from multiple sources into a SIEM platform.
+- Created detection rules and correlation alerts for suspicious activity.
+- Investigated real-world attack scenarios such as brute-force attempts and unauthorized access.
+- Generated reports and recommendations for incident response.
 
-**Outcome:** Achieved a well-structured network with minimal latency and high reliability.
+**Outcome:** Enhanced threat detection capabilities and improved response strategies through log analysis and pattern recognition.
 
 ---
 
 ## Tools and Technologies
 
 Throughout these projects, I’ve worked with:
-- **Security Tools:** Splunk, Wireshark, iptables
+- **Security Tools:** Splunk, Wireshark, iptables, SIEM platforms
 - **Networking Tools:** Cisco Packet Tracer
 - **Programming Languages:** Python
 - **Virtualization:** VMware
@@ -98,4 +99,3 @@ Throughout these projects, I’ve worked with:
 If you’re interested in my work or would like to collaborate, feel free to reach out via [dantehenningsen@gmail.com].
 
 ---
-
