@@ -62,6 +62,8 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 **Outcome:** Created a robust design framework for securing industrial control systems.
 
+**Link to Artifact:** [Scada Security Design](https://github.com/VernonXTA/SCADA-System-Security-Design)
+
 ---
 
 ### 4. SIEM Log Analysis and Threat Hunting
