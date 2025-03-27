@@ -35,6 +35,8 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 **Outcome:** Collected valuable insights into real-world attack vectors, improving understanding of threat actor behavior.
 
+**Link to Artifact:** [HoneyPot Development](https://github.com/VernonXTA/Simple-SSH-HoneyPot)
+
 ---
 
 ### 2. Nmap XMAS Scan Detection and Mitigation
