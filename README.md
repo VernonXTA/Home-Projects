@@ -50,6 +50,8 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 **Outcome:** Successfully mitigated the attack, ensuring server availability and security.
 
+**Link to Artifact:** [IPS with Snort](https://github.com/VernonXTA/UbuntuIDS)
+
 ---
 
 ### 3. SCADA System Security Design
