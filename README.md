@@ -84,6 +84,17 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 ---
 
+### 5. Side Projects For Python
+
+**Objective:** This one is more of a fun project side of mine, which incorporates my favorite hobby which is Cosmology and Astrophysics.
+**No Steps Taken. Just For Fun.**
+- Created a program that simulates the Milky Way Galaxy and uses Nasa's Galactic Coordination System for Encryption with high entropy.
+- Created a program that uses the Penrose Process and compares it to Dyson Sphere calculations.
+
+**Outcome:** Had a lot of fun doing all of these! They just pop in my head and write them out in code for fun!
+
+**Link to Artifacts:** [Cosmology Projects](https://null.com)
+
 ## Tools and Technologies
 
 Throughout these projects, I’ve worked with:
