@@ -93,7 +93,7 @@ This portfolio reflects my passion for cybersecurity and my dedication to master
 
 **Outcome:** Had a lot of fun doing all of these! They just pop in my head and write them out in code for fun!
 
-**Link to Artifacts:** [Cosmology Projects](https://null.com)
+**Link to Artifacts:** [Cosmology Projects](https://github.com/VernonXTA/Cosmic-Energy-Calculator)
 
 ## Tools and Technologies
 
